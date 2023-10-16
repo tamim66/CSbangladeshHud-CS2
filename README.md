@@ -15,7 +15,7 @@ Basically, CS2 is streaming data to local app-server, that transforms data and t
 - After running CS2 and connecting to match (or replaying a demo, you can use this in it too)
 - Start RUN file (.bat for Windows, .sh for Linux)
  ![](https://i.postimg.cc/G2SV64wK/image-2023-10-16-190538812.png)
-- Copy the given link from terminal and paste it in any browser to acess the hud 
+- Copy the given link from terminal and paste it in any browser to access the hud 
 
 ### change Team logo/league logo /sponsor logo
 - Team logo should be 256x256pixels
