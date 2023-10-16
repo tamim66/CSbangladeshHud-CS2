@@ -13,6 +13,7 @@ body {
   width: 1100px;
   height: 70px;
   position: fixed;
+  border-radius: 5px;
   top: 10px;
   left: 50%;
   transform: translateX(-50%);
@@ -467,7 +468,7 @@ body {
   width: 620px;
   height: 190px;
   position: fixed;
-  bottom: 90px;
+  bottom: 125px;
   left: 940px;
   transform: translateX(-50%);
 }
