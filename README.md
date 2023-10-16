@@ -14,11 +14,11 @@ Basically, CS2 is streaming data to local app-server, that transforms data and t
 - CS2 needs to run on Fullscreen Windowed 
 - After running CS2 and connecting to match (or replaying a demo, you can use this in it too)
 - Start RUN file (.bat for Windows, .sh for Linux)
- ![](https://i.postimg.cc/G2SV64wK/image-2023-10-16-190538812.png)
-- Copy the given link from terminal and paste it in any browser to access the hud 
+- Copy the given link from terminal and paste it in any browser to access the hud
+-  ![](https://i.postimg.cc/G2SV64wK/image-2023-10-16-190538812.png)
 
-### change Team logo/league logo /sponsor logo
-- Team logo should be 256x256pixels
+### change league logo /sponsor logo
+
 - To change league/sponsor left & right images make 395x70pixel banner and replace them from these dir without renaming them
 - \public\files\league.png
 - \public\files\img\elements.png
