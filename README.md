@@ -4,10 +4,10 @@ Made miinor changes in CSS from his CSGO [HUD](https://github.com/dionpirotta/Cu
 
 (https://i.postimg.cc/pLjyWDp4/vlcsnap-2023-10-16-18h40m22s166.png)
 
-##How does it work?
+### How does it work?
 Basically, CS2 is streaming data to local app-server, that transforms data and then load it to local webpage.
 
-##installation
+### installation
 - Node.js needs to be installed
 - Download this repo somewhere
 - /cfg/gamestate_integration_observerspectator.cfg needs to be placed in cfg folder in CS2 location
@@ -15,8 +15,9 @@ Basically, CS2 is streaming data to local app-server, that transforms data and t
 - After running CS2 and connecting to match (or replaying a demo, you can use this in it too)
 - Start RUN file (.bat for Windows, .sh for Linux)
 
-##change Team logo/league logo /sponsor logo
+### change Team logo/league logo /sponsor logo
 - Team logo should be 256x256pixels
 - To change league/sponsor left & right images make 395x70pixel banner and replace them from these dir without renaming them
 - \public\files\league.png
 - \public\files\img\elements.png
+
