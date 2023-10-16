@@ -1,8 +1,8 @@
 ﻿# CSbangladeshHud-CS2
 All credit goes to [dionpirotta](https://github.com/dionpirotta)
-Made miinor changes in CSS from his CSGO [HUD](https://github.com/dionpirotta/Custom-CSGO-HUD#examples)
+Made minor changes in CSS from his CSGO [HUD](https://github.com/dionpirotta/Custom-CSGO-HUD#examples)
 
-(https://i.postimg.cc/pLjyWDp4/vlcsnap-2023-10-16-18h40m22s166.png)
+![](https://i.postimg.cc/pLjyWDp4/vlcsnap-2023-10-16-18h40m22s166.png)
 
 ### How does it work?
 Basically, CS2 is streaming data to local app-server, that transforms data and then load it to local webpage.
