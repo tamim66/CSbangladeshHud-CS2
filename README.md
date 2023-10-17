@@ -1,5 +1,6 @@
 ﻿# CSbangladeshHud-CS2
-All credit goes to [dionpirotta](https://github.com/dionpirotta)
+> [!IMPORTANT]
+> All credit goes to [dionpirotta](https://github.com/dionpirotta).
 Made minor changes in CSS from his CSGO [HUD](https://github.com/dionpirotta/Custom-CSGO-HUD#examples)
 
 ![](https://i.postimg.cc/pLjyWDp4/vlcsnap-2023-10-16-18h40m22s166.png)
