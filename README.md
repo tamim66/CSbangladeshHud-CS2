@@ -27,7 +27,7 @@ Basically, CS2 is streaming data to local app-server, that transforms data and t
 ### Add Hud in OBS
 - Join spectator 
 - Enter "cl_draw_only_deathnotices 1" in game console.
-- Make a browser source (1920x1080pixels) in OBS.
+- Make a browser source in OBS.
 - copy & paste the hud link in url box.
 - ![](https://i.postimg.cc/DfL9L646/image-2023-10-17-105054631.png)
 
