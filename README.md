@@ -24,10 +24,10 @@ Basically, CS2 is streaming data to local app-server, that transforms data and t
 - \public\files\league.png
 - \public\files\img\elements.png
 
-### Add Hud in OBS
-- Join spectator 
+### OBS setup 
+- Join spectator.
 - Enter "cl_draw_only_deathnotices 1" in game console.
 - Make a browser source in OBS.
 - copy & paste the hud link in url box.
-- ![](https://i.postimg.cc/DfL9L646/image-2023-10-17-105054631.png)
+ ![](https://i.postimg.cc/DfL9L646/image-2023-10-17-105054631.png)
 
