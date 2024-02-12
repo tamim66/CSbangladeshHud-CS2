@@ -1,2 +1,2 @@
-node index.js
+npm install & node index.js
 pause
