@@ -2667,7 +2667,7 @@ body {
   --main-panel-color:
   rgb(0 0 0 / 95%);
   --sub-panel-color:
-  rgb(0 0 0 / 92%);
+  rgb(0 0 0 / 95%);
   --white-dull:
   rgba(250, 250, 250, 0.25);
   --white-full:
@@ -2676,9 +2676,9 @@ body {
   rgba(250, 250, 250, 0.5);
   --color-moneys: #a7d32e;
   --dev-purple: #1c1c95;
-  --color-t: #c19511;
+  --color-t: #f0ed41;
   --color-ct: #1c3f46;
-  --color-new-t: #f0c941;
+  --color-new-t: #f0ed41;
   --color-new-ct: #5ab8f4;
   --color-bomb: #f22222;
   --color-defuse: #00b33c;
